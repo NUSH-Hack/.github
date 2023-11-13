@@ -14,6 +14,8 @@ Some projects listed:
 |[`diskut`](https://github.com/NUSH-Hack/diskut)|Wong Yue Heng, Zhou Jing and Tan Junheng|**First Place** at NUSH Hack 2023|
 |[`EasyRead`](https://github.com/NUSH-Hack/easyread)|Vadapalli Dedeep Sai, Tan Yong Tat and Raghav Kumar|**Second Place** at NUSH Hack 2023|
 |[`SimpliRead`](https://github.com/NUSH-Hack/SimpliRead)|Chandranshu Nanda, Wong Yi Kai and Parakram Mohan|**Third Place** at NUSH Hack 2023|
+|[`Attention zero`](https://github.com/NUSH-Hack/attention-zero)|Tyler Foo, Ryan Suwandi and Leng Kane Kiat|Special Mention at NUSH Hack 2023|
+|[`Friender`](https://github.com/NUSH-Hack/friender)|Yu Simu, Nguyen Khanh Vy and Oliver Yeow|Special Mention at NUSH Hack 2023|
 
 <!--
 - [`Coeus by Liew Wei Pyn, Jed Lim Li Xin and Karimi Zayan`<br/>Junior Prize at NUSH Hack 2018](https://github.com/NUSH-Hack/Coeus)
